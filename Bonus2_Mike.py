@@ -23,7 +23,7 @@ args = parser.parse_args()
 
 abc = 'abcdefghijklmnopqrstuvwxyz'
 
-#!!! encoding and decoding key
+# !!! encoding and decoding key
 n = 3
 
 
